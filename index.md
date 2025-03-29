@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: "PAGE-TITLE"
 permalink: /
 ---
 
-Hello, World!
+Christoph Zimnicki is a founder, designer and engineer\
+creating human-machine interaction paradigms.
