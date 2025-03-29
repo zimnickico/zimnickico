@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "local": "bun ./source/routes/index.html"
+    "local": "bun ./source/routes/index.html",
+    "build": "bun build ./source/routes/index.html --minify --outdir=dist"
   }
 }
