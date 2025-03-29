@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 12 32;
+    font-family: -apple-system, sans-serif;
+}
+
+h1 {
+    font-size: 13px;
+    font-weight: 450;
+}
