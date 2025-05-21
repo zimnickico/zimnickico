@@ -1,4 +1,8 @@
 body {
-    margin: 6px 32px;
-    line-height: 1.4;
+    font-family: system-ui;
+    font-weight: 450;
+    font-size: 13.3px;
+    margin: 3px 33px;
+    letter-spacing: -0.33px;
+    line-height: 16.3px;
 }

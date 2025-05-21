@@ -1,0 +1,22 @@
+p {
+    max-width: 100vw;
+    margin: auto;
+    text-align: center;
+}
+
+p img {
+    max-width: 50%;
+    height: auto;
+}
+
+body {
+    max-width: 100vw;
+    margin: auto;
+    text-align: center;
+}
+
+video {
+    max-width: 50%;
+    align-self: center;
+    text-align: center;
+}
