@@ -1,8 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
 body {
-    font-family: system-ui;
+    font-family: "Inter", system-ui;
     font-weight: 450;
-    font-size: 13.3px;
-    margin: 3px 33px;
-    letter-spacing: -0.33px;
-    line-height: 16.3px;
+    font-size: 12.5px;
+    letter-spacing: -0.2px;
+    line-height: 150%;
+    text-align: center;
+    -webkit-font-smoothing: subpixel-antialiased;
+    margin-top: 20%;
+}
+
+h2 {
+    font-family: "Inter", system-ui;
+    font-weight: 450;
+    font-size: 15px;
+    letter-spacing: -0.25px;
+    line-height: 50%;
+}
+
+a {
+    color: #b8b8b8;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+a:hover {
+    color: #171717;
+}
+
+.navigation {
+    position: absolute;
+    width: 99vw;
+    bottom: 20px;
 }
